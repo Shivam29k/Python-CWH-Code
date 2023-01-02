@@ -8,6 +8,9 @@ for item in list1:
 
 print("--------------------")
 
-# other way
+# other way by using enumerate function
+# enumerate function initates a counter, which starts from 0
 for i, items in enumerate(list1):
     print(i, items)
+
+# I added something new
