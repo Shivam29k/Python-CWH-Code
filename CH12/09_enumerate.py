@@ -12,5 +12,3 @@ print("--------------------")
 # enumerate function initates a counter, which starts from 0
 for i, items in enumerate(list1):
     print(i, items)
-
-# I added something new
